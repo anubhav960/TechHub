@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechHubCore.DataAccessLayer", "TechHubCore.DataAccessLayer\TechHubCore.DataAccessLayer.csproj", "{F55DD89D-6AD2-4178-B69F-F161D8410CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55DD89D-6AD2-4178-B69F-F161D8410CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55DD89D-6AD2-4178-B69F-F161D8410CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55DD89D-6AD2-4178-B69F-F161D8410CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55DD89D-6AD2-4178-B69F-F161D8410CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBAF8D1B-C460-4326-ABD6-F7CA878C4BFA}
+	EndGlobalSection
+EndGlobal
